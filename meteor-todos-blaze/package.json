@@ -1,6 +1,8 @@
 {
   "name": "meteor-todos",
-  "private": true,
+  "keywords": ["meteor", "todo"],
+  "description": "a simple todo project development with meteor",
+  "private": false,
   "scripts": {
     "start": "meteor run"
   },
